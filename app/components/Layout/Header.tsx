@@ -42,7 +42,7 @@ const Header = () => {
                     marginTop: '0px',
                   }}
                 >
-                  sábado 8 de marzo de 2026
+                  Sábado 28 de Marzo de 2026
                 </span>
               </div>
             </a>

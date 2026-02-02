@@ -37,7 +37,7 @@ export const Banner: FC<Props> = ({ header, footer }): any => {
         </h3>
 
         <Countdown
-          date="2026-03-08T14:00:00"
+          date="2026-03-28T14:00:00"
           className="!mx-auto sm:!mx-0 sm:!ml-[-13px]"
         />
       </div>

@@ -21,7 +21,7 @@ export const Locations: FC = (): any => {
       >
         <CardSmall
           title="Fiesta de cumpleaños"
-          subtitle="sábado 8 de marzo de 2026 - 2:00 pm"
+          subtitle="Sábado 28 de marzo de 2026 - 2:00 pm"
           description={
             <>
               Mártires del 28 de Agosto 77, <br />
