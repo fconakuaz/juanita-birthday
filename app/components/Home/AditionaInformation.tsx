@@ -24,10 +24,10 @@ export const AditionaInformation: FC = (): any => {
               No se ofrecerá alcohol adicional, no obstante si deseas disfrutar
               de tu bebida favorita, la puedes traer sin problema. Apreciamos tu
               comprensión y estamos felices de que nos acompañes a celebrar el
-              cumpleaños de Luz.
+              cumpleaños de Juanita.
               <br />
               <br />
-              ¡Muchas gracias por celebrar el cumpleaños de Luz con nosotros!
+              ¡Muchas gracias por celebrar el cumpleaños de Juanita con nosotros!
             </p>
           </div>
         </div>

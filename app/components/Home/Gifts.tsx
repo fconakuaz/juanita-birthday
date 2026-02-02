@@ -7,7 +7,7 @@ export const Gifts: FC = (): any => {
       <h1
         className="text-center font-site pt-5 mt-5 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0"
         style={{
-          color: 'rgb(112 184 214 / var(--tw-bg-opacity))',
+          color: '#8d3952',
           fontSize: '28px',
           lineHeight: '30px',
           marginBottom: '-20px',
@@ -25,10 +25,10 @@ export const Gifts: FC = (): any => {
               disableZoom={true}
             />
           </div>
-          <div className="border-y-4 border-blue-site p-8 sm:w-80 relative bg-gray-800 sm:ml-52 sm:mt-[-360px]">
+          <div className="border-y-4 border-blue-site p-8 sm:w-80 relative bg-white sm:ml-52 sm:mt-[-360px]">
             <h3 className="text-2xl font-site">Regalos en efectivo</h3>
             <p className="my-6 text-sm">
-              Si consideras hacer un regalo a Luz, preferimos una contribución
+              Si consideras hacer un regalo a Juanita, preferimos una contribución
               en efectivo; cualquier aporte es bien recibido para celebrar su
               cumpleaños. Puedes entregar tu gentil aporte en el sobre que
               facilitaremos en la fiesta y depositarlo en la urna en el salón.
@@ -46,7 +46,7 @@ export const Gifts: FC = (): any => {
               disableZoom={true}
             />
           </div>
-          <div className="border-y-4 border-blue-site p-8 pr-5  sm:w-60 relative bg-gray-800 sm:ml-40 sm:mt-[-360px]">
+          <div className="border-y-4 border-blue-site p-8 pr-5  sm:w-60 relative bg-white sm:ml-40 sm:mt-[-360px]">
             <h3 className="text-2xl font-site">Mesa de regalos </h3>
             <p className="my-6 text-sm">
               Si prefieres obsequiarnos algo especial, tenemos una mesa de
@@ -62,7 +62,7 @@ export const Gifts: FC = (): any => {
                 style={{
                   fontWeight: 'bolder',
                   fontSize: '22px',
-                  color: '#70b8d6',
+                  color: '#8d3952',
                   textDecoration: 'underline', // Opcional, para remover el subrayado predeterminado de los enlaces
                 }}
               >
