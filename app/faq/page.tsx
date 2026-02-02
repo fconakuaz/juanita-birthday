@@ -17,7 +17,7 @@ export default async function Projects() {
       <div className="max-w-7xl mx-auto mt-[-120px] relative bg-white px-8 sm:px-20">
         <h1
           className="text-center pt-10 py-8 font-site mb-0 pb-0"
-          style={{ color: '#D2649A' }}
+          style={{ color: '#8d3952' }}
         >
           Preguntas frecuentes
         </h1>

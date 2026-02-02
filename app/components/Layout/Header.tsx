@@ -27,7 +27,7 @@ const Header = () => {
                 <span
                   className="block font-site text-sm sm:text-base md:text-lg"
                   style={{
-                    color: '#D2649A',
+                    color: '#8d3952',
                     fontWeight: '500',
                     marginBottom: '-9px',
                     lineHeight: '1.2',

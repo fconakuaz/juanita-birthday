@@ -58,7 +58,7 @@ export function NavBar() {
                 'block h-[3px] w-6  transform transition duration-500 ease-in-out ' +
                 className
               }
-              style={{ background: '#D2649A' }}
+              style={{ background: '#8d3952' }}
             ></span>
           ))}
         </div>

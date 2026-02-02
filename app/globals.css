@@ -107,17 +107,17 @@
 
  .text-blue-site {
    /* color: #70b8d6 */
-   color: #D2649A;
+   color: #8d3952;
  }
 
  .border-blue-site {
    /* border-color: #70b8d6 */
-   border-color: #D2649A;
+   border-color: #8d3952;
  }
 
  .text-purple-site {
    --tw-text-opacity: 1;
-   color: rgb(210 100 154 / var(--tw-bg-opacity));
+   color: rgb(141 57 82 / var(--tw-bg-opacity));
  }
 
  .btn-main {
@@ -127,13 +127,13 @@
    line-height: 1.25rem;
    font-weight: 500;
    --tw-bg-opacity: 1;
-   background-color: rgb(210 100 154 / var(--tw-bg-opacity));
+   background-color: rgb(141 57 82 / var(--tw-bg-opacity));
    font-family: sans-serif;
  }
 
  .bg-blue-site {
    --tw-bg-opacity: 1;
-   background-color: rgb(210 100 154 / var(--tw-bg-opacity));
+   background-color: rgb(141 57 82 / var(--tw-bg-opacity));
  }
 
  .Countdown {
@@ -160,7 +160,7 @@
  }
 
  .Countdown-col-element strong {
-   color: rgb(210 100 154 / var(--tw-bg-opacity));
+   color: rgb(141 57 82 / var(--tw-bg-opacity));
    font-size: 34px;
    padding-bottom: 2px;
    padding-top: 18px;
@@ -170,7 +170,7 @@
 
  .bg-purple-site {
    --tw-bg-opacity: 1;
-   background-color: rgb(210 100 154);
+   background-color: rgb(141 57 82);
  }
 
  .parisienne-regular {
@@ -191,11 +191,11 @@
  }
 
  input:hover~.css-16mozzi {
-   background-color: #D2649A;
+   background-color: #8d3952;
  }
 
  .css-1nmgipy-MuiInputBase-root-MuiInput-root::after {
-   border-bottom: 2px solid #D2649A;
+   border-bottom: 2px solid #8d3952;
  }
 
  [type='text']:focus,
@@ -221,11 +221,11 @@
      );
    --tw-ring-offset-width: 0px;
    --tw-ring-offset-color: #fff;
-   --tw-ring-color: #D2649A;
+   --tw-ring-color: #8d3952;
    --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
    --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);
    box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);
-   border-color: #D2649A;
+   border-color: #8d3952;
  }
 
  textarea#filled-multiline-flexible {
@@ -234,7 +234,7 @@
  }
 
  span.MuiTypography-root {
-   color: #D2649A;
+   color: #8d3952;
    font-weight: 400;
    font-size: 20px;
    margin-bottom: -9px;
@@ -248,7 +248,7 @@
 
  .btn-main:hover {
    --tw-bg-opacity: 1;
-   background-color: rgb(210 100 154);
+   background-color: rgb(141 57 82);
  }
 
  @media (max-width: 640px) {

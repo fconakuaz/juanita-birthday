@@ -33,7 +33,7 @@ export const FormConfirmation: FC = () => {
       <h1
         className="text-center py-3 font-site text-xl sm:text-2xl md:text-[28px]"
         style={{
-          color: '#D2649A',
+          color: '#8d3952',
           lineHeight: '1.2',
         }}
       >
@@ -52,8 +52,8 @@ export const FormConfirmation: FC = () => {
           onSubmit={handleSubmit(onSubmit)}
           className="border-2 border-blue-site p-4 sm:p-6 md:p-8"
           style={{
-            borderColor: '#D2649A',
-            backgroundColor: '#D2649A',
+            borderColor: '#8d3952',
+            backgroundColor: '#8d3952',
             boxShadow: '1px 1px 7px #64646438',
             color: 'white',
             borderRadius: '1px',
@@ -74,7 +74,7 @@ export const FormConfirmation: FC = () => {
                   Pases a nombre de:
                 </FormLabel>
                 <Typography
-                  color={'#D2649A'}
+                  color={'#8d3952'}
                   sx={{
                     marginTop: '-5px',
                     fontSize: '22px',
@@ -107,7 +107,7 @@ export const FormConfirmation: FC = () => {
                   Invitación por parte de:
                 </FormLabel>
                 <Typography
-                  color={'#D2649A'}
+                  color={'#8d3952'}
                   sx={{
                     marginTop: '-5px',
                     fontSize: '22px',
@@ -138,7 +138,7 @@ export const FormConfirmation: FC = () => {
                   Pases confirmados:
                 </FormLabel>
                 <Typography
-                  color={'#D2649A'}
+                  color={'#8d3952'}
                   sx={{
                     marginTop: '-5px',
                     fontSize: '22px',
@@ -195,7 +195,7 @@ export const FormConfirmation: FC = () => {
       <h1
         className="text-center py-3 font-site text-xl sm:text-2xl md:text-[28px]"
         style={{
-          color: '#D2649A',
+          color: '#8d3952',
           lineHeight: '1.2',
         }}
       >
@@ -227,7 +227,7 @@ export const FormConfirmation: FC = () => {
                   Pases a nombre de:
                 </FormLabel>
                 <Typography
-                  color={'#D2649A'}
+                  color={'#8d3952'}
                   sx={{
                     marginLeft: '24px',
                     marginTop: '5px',
@@ -259,7 +259,7 @@ export const FormConfirmation: FC = () => {
                   Pases disponibles
                 </FormLabel>
                 <Typography
-                  color={'#D2649A'}
+                  color={'#8d3952'}
                   sx={{
                     marginLeft: '24px',
                     marginTop: '0px',

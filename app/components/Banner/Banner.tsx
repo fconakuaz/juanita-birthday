@@ -12,7 +12,7 @@ export const Banner: FC<Props> = ({ header, footer }): any => {
       {/* Left Side: Image */}
       <div className="w-full sm:w-1/2 flex justify-center sm:justify-end">
         <img
-          src="https://res.cloudinary.com/zencommerce/image/upload/v1767458988/luz2_msqcjw.jpg"
+          src="https://res.cloudinary.com/zencommerce/image/upload/v1770071177/juanita_evsgu7.jpg"
           alt="Juanita"
           className="rounded-[20px] w-auto h-auto max-h-[300px] sm:max-h-[550px] shadow-lg"
           style={{ objectFit: 'contain' }}

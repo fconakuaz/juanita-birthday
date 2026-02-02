@@ -8,7 +8,7 @@ export const Locations: FC = (): any => {
       <h1
         className="text-center font-site pt-5 mt-5 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 text-xl sm:text-2xl md:text-[28px]"
         style={{
-          color: '#D2649A',
+          color: '#8d3952',
           lineHeight: '1.2',
           marginBottom: '-20px',
         }}
@@ -46,7 +46,7 @@ export const Locations: FC = (): any => {
                 rel="noopener noreferrer"
                 style={{
                   fontSize: '18px',
-                  color: '#D2649A',
+                  color: '#8d3952',
                   fontWeight: 'bolder',
                 }}
               >
