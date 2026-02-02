@@ -28,12 +28,12 @@ export const Gifts: FC = (): any => {
           <div className="border-y-4 border-blue-site p-8 sm:w-80 relative bg-white sm:ml-52 sm:mt-[-360px]">
             <h3 className="text-2xl font-site">Regalos en efectivo</h3>
             <p className="my-6 text-sm">
-              Si consideras hacer un regalo a Juanita, preferimos una contribución
-              en efectivo; cualquier aporte es bien recibido para celebrar su
-              cumpleaños. Puedes entregar tu gentil aporte en el sobre que
-              facilitaremos en la fiesta y depositarlo en la urna en el salón.
-              Agradecemos tu apoyo y generosidad en este momento tan especial.
-              ¡Muchas gracias!
+              Si consideras hacer un regalo a Juanita, preferimos una
+              contribución en efectivo; cualquier aporte es bien recibido para
+              celebrar su cumpleaños. Puedes entregar tu gentil aporte en el
+              sobre que facilitaremos en la fiesta y depositarlo en la urna en
+              el salón. Agradecemos tu apoyo y generosidad en este momento tan
+              especial. ¡Muchas gracias!
             </p>
           </div>
         </div>

@@ -27,7 +27,8 @@ export const AditionaInformation: FC = (): any => {
               cumpleaños de Juanita.
               <br />
               <br />
-              ¡Muchas gracias por celebrar el cumpleaños de Juanita con nosotros!
+              ¡Muchas gracias por celebrar el cumpleaños de Juanita con
+              nosotros!
             </p>
           </div>
         </div>
