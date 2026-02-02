@@ -24,7 +24,7 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link
           rel="icon"
-          href="https://res.cloudinary.com/zencommerce/image/upload/v1767375900/luzinvitation_igqaty.jpg"
+          href="https://res.cloudinary.com/zencommerce/image/upload/v1770072862/Juanita_card_wrrhtu.jpg"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
