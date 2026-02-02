@@ -114,9 +114,7 @@ export const FormConfirmation: FC = () => {
                     color: '#333',
                   }}
                 >
-                  {wg?.invitation_from === 'Novio'
-                    ? 'La familia'
-                    : 'Juanita'}
+                  {wg?.invitation_from === 'Novio' ? 'La familia' : 'Juanita'}
                 </Typography>
               </div>
             </div>

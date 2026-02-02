@@ -24,7 +24,6 @@ export const Locations: FC = (): any => {
           subtitle="sábado 8 de marzo de 2026 - 2:00 pm"
           description={
             <>
-
               Mártires del 28 de Agosto 77, <br />
               Presa de San Bruno, <br />
               91028 Xalapa-Enríquez, Ver.

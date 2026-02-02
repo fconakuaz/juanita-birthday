@@ -4,7 +4,7 @@ export const dropConfetti = () => {
   confetti({
     zIndex: 999,
     particleCount: 150,
-    colors: ['#fff', '#70b8d6'],
+    colors: ['#fff', '#8d3952'],
     spread: 100,
     angle: 90,
     origin: { x: 0.25, y: 1 },
@@ -12,7 +12,7 @@ export const dropConfetti = () => {
   confetti({
     zIndex: 999,
     particleCount: 150,
-    colors: ['#fff', '#70b8d6'],
+    colors: ['#fff', '#8d3952'],
     spread: 100,
     angle: 90,
     origin: { x: 0.75, y: 1 },
@@ -23,7 +23,7 @@ export const dropConfettiheavy = () => {
   confetti({
     zIndex: 999,
     particleCount: 150,
-    colors: ['#fff', '#70b8d6'],
+    colors: ['#fff', '#8d3952'],
     spread: 100,
     angle: 45,
     origin: { x: 0, y: 0.5 },
@@ -31,7 +31,7 @@ export const dropConfettiheavy = () => {
   confetti({
     zIndex: 999,
     particleCount: 150,
-    colors: ['#fff', '#70b8d6'],
+    colors: ['#fff', '#8d3952'],
     spread: 100,
     angle: 135,
     origin: { x: 1, y: 0.5 },
@@ -39,7 +39,7 @@ export const dropConfettiheavy = () => {
   confetti({
     zIndex: 999,
     particleCount: 150,
-    colors: ['#fff', '#70b8d6'],
+    colors: ['#fff', '#8d3952'],
     spread: 100,
     angle: 90,
     origin: { x: 0.25, y: 1 },
@@ -47,7 +47,7 @@ export const dropConfettiheavy = () => {
   confetti({
     zIndex: 999,
     particleCount: 150,
-    colors: ['#fff', '#70b8d6'],
+    colors: ['#fff', '#8d3952'],
     spread: 100,
     angle: 90,
     origin: { x: 0.75, y: 1 },
