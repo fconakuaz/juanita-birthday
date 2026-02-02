@@ -25,7 +25,7 @@ export const Locations: FC = (): any => {
           description={
             <>
               Mártires del 28 de Agosto 77, <br />
-              Presa de San Bruno, <br />
+              Ferrer Guardia, <br />
               91028 Xalapa-Enríquez, Ver.
             </>
           }
