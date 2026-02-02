@@ -33,17 +33,17 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className="text-white bg-gray-900">
+      <body className="text-gray-800 bg-pink-50">
         {process.env.NEXT_PUBLIC_WIX_CLIENT_ID ? (
           <>
             <Header />
-            <main className="bg-gray-900 min-h-[600px] ">{children}</main>
+            <main className="bg-pink-50 min-h-[600px] ">{children}</main>
             <div className="mt-10 sm:mt-20">
               <Footer />
             </div>
           </>
         ) : (
-          <div className="bg-gray-900 text-white min-h-[600px] max-w-5xl mx-auto p-5">
+          <div className="bg-pink-50 text-gray-800 min-h-[600px] max-w-5xl mx-auto p-5">
             Page not available. Please add an environment variable called
             NEXT_PUBLIC_WIX_CLIENT_ID, containing the client ID, to your
             deployment provider.

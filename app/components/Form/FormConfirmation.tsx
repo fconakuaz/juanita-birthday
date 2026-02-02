@@ -29,11 +29,11 @@ export const FormConfirmation: FC = () => {
   };
 
   return wg?.dateconfirmation !== null ? (
-    <div className="max-w-7xl mx-auto mb-[60px] sm:mb-[110px] mt-[30px] sm:mt-[180px] relative bg-gray-900 px-4 sm:px-8 md:px-20">
+    <div className="max-w-7xl mx-auto mb-[60px] sm:mb-[110px] mt-[30px] sm:mt-[180px] relative bg-white px-4 sm:px-8 md:px-20">
       <h1
         className="text-center py-3 font-site text-xl sm:text-2xl md:text-[28px]"
         style={{
-          color: 'rgb(112 184 214 / var(--tw-bg-opacity))',
+          color: '#D2649A',
           lineHeight: '1.2',
         }}
       >
@@ -52,8 +52,8 @@ export const FormConfirmation: FC = () => {
           onSubmit={handleSubmit(onSubmit)}
           className="border-2 border-blue-site p-4 sm:p-6 md:p-8"
           style={{
-            borderColor: '#70b8d6',
-            backgroundColor: '#70b8d6',
+            borderColor: '#D2649A',
+            backgroundColor: '#D2649A',
             boxShadow: '1px 1px 7px #64646438',
             color: 'white',
             borderRadius: '1px',
@@ -66,19 +66,19 @@ export const FormConfirmation: FC = () => {
                 <FormLabel
                   sx={{
                     fontWeight: '400',
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >
                   Pases a nombre de:
                 </FormLabel>
                 <Typography
-                  color={'#70b8d6'}
+                  color={'#D2649A'}
                   sx={{
                     marginTop: '-5px',
                     fontSize: '22px',
-                    color: 'white',
+                    color: '#333',
                   }}
                 >
                   {wg?.family !== null && wg?.family !== ''
@@ -99,19 +99,19 @@ export const FormConfirmation: FC = () => {
                 <FormLabel
                   sx={{
                     fontWeight: '400',
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >
                   Invitación por parte de:
                 </FormLabel>
                 <Typography
-                  color={'#70b8d6'}
+                  color={'#D2649A'}
                   sx={{
                     marginTop: '-5px',
                     fontSize: '22px',
-                    color: 'white',
+                    color: '#333',
                   }}
                 >
                   {wg?.invitation_from === 'Novio'
@@ -130,19 +130,19 @@ export const FormConfirmation: FC = () => {
                 <FormLabel
                   sx={{
                     fontWeight: '400',
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >
                   Pases confirmados:
                 </FormLabel>
                 <Typography
-                  color={'#70b8d6'}
+                  color={'#D2649A'}
                   sx={{
                     marginTop: '-5px',
                     fontSize: '22px',
-                    color: 'white',
+                    color: '#333',
                   }}
                 >
                   {wg?.passconfirmed}
@@ -164,8 +164,8 @@ export const FormConfirmation: FC = () => {
                 <FormLabel
                   sx={{
                     fontWeight: '400',
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >
@@ -177,7 +177,7 @@ export const FormConfirmation: FC = () => {
                     rel="noopener noreferrer"
                     style={{
                       fontSize: '18px',
-                      color: '#fff',
+                      color: '#333',
                       fontWeight: 'bolder',
                     }}
                   >
@@ -191,11 +191,11 @@ export const FormConfirmation: FC = () => {
       </div>
     </div>
   ) : (
-    <div className="max-w-7xl mx-auto mb-[10px] sm:mb-[100px] mt-[30px] sm:mt-[180px] relative bg-gray-900 px-8 sm:px-20">
+    <div className="max-w-7xl mx-auto mb-[10px] sm:mb-[100px] mt-[30px] sm:mt-[180px] relative bg-white px-8 sm:px-20">
       <h1
         className="text-center py-3 font-site text-xl sm:text-2xl md:text-[28px]"
         style={{
-          color: 'rgb(112 184 214 / var(--tw-bg-opacity))',
+          color: '#D2649A',
           lineHeight: '1.2',
         }}
       >
@@ -219,15 +219,15 @@ export const FormConfirmation: FC = () => {
               <div className="row">
                 <FormLabel
                   sx={{
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >
                   Pases a nombre de:
                 </FormLabel>
                 <Typography
-                  color={'#70b8d6'}
+                  color={'#D2649A'}
                   sx={{
                     marginLeft: '24px',
                     marginTop: '5px',
@@ -251,15 +251,15 @@ export const FormConfirmation: FC = () => {
               <div className="row">
                 <FormLabel
                   sx={{
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >
                   Pases disponibles
                 </FormLabel>
                 <Typography
-                  color={'#70b8d6'}
+                  color={'#D2649A'}
                   sx={{
                     marginLeft: '24px',
                     marginTop: '0px',
@@ -275,8 +275,8 @@ export const FormConfirmation: FC = () => {
               <div className="row mb-5 mt-4">
                 <FormLabel
                   sx={{
-                    color: 'white !important',
-                    '&.Mui-focused': { color: 'white !important' },
+                    color: '#333 !important',
+                    '&.Mui-focused': { color: '#333 !important' },
                   }}
                   id="demo-form-control-label-placement"
                 >

@@ -58,7 +58,7 @@ export function NavBar() {
                 'block h-[3px] w-6  transform transition duration-500 ease-in-out ' +
                 className
               }
-              style={{ background: '#70b8d6' }}
+              style={{ background: '#D2649A' }}
             ></span>
           ))}
         </div>
@@ -68,7 +68,7 @@ export function NavBar() {
           isMenuShown
             ? 'max-md:w-full max-md:opacity-100'
             : 'max-md:w-0 max-md:opacity-0'
-        } transition-all duration-500 ease-in-out md:block overflow-hidden max-md:absolute max-md:animate-sideways-once max-md:h-screen max-md:bg-gray-900 max-md:pt-24 z-40 top-0 right-0`}
+        } transition-all duration-500 ease-in-out md:block overflow-hidden max-md:absolute max-md:animate-sideways-once max-md:h-screen max-md:bg-white max-md:pt-24 z-40 top-0 right-0`}
       >
         <ul className="flex flex-col items-center md:flex-row gap-10 md:gap-4 min-[900px]:gap-5 lg:gap-12 justify-end text-sm md:text-[15px] leading-[22px]">
           {navbarItems.map(({ ref, label }) => (

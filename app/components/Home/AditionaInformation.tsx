@@ -16,7 +16,7 @@ export const AditionaInformation: FC = (): any => {
               disableZoom={true}
             />
           </div>
-          <div className="border-y-4 border-blue-site p-4 sm:p-8 sm:w-full relative bg-gray-800 sm:ml- sm:mt-[-20px]">
+          <div className="border-y-4 border-blue-site p-4 sm:p-8 sm:w-full relative bg-white sm:ml- sm:mt-[-20px]">
             <h3 className="text-lg sm:text-xl md:text-[22px] font-site">
               {'Aviso importante'}
             </h3>

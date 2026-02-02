@@ -14,10 +14,10 @@ export default async function Projects() {
           disableZoom={true}
         />
       </div>
-      <div className="max-w-7xl mx-auto mt-[-120px] relative bg-gray-900 px-8 sm:px-20">
+      <div className="max-w-7xl mx-auto mt-[-120px] relative bg-white px-8 sm:px-20">
         <h1
           className="text-center pt-10 py-8 font-site mb-0 pb-0"
-          style={{ color: 'rgb(112, 184, 214)' }}
+          style={{ color: '#D2649A' }}
         >
           Preguntas frecuentes
         </h1>
@@ -45,7 +45,7 @@ export default async function Projects() {
                   disableZoom={true}
                 />
               </div>
-              <div className="bg-gray-800 sm:mt-[-50px] border-t-4 relative mx-6 px-2 pt-3 border-blue-site text-center">
+              <div className="bg-white sm:mt-[-50px] border-t-4 relative mx-6 px-2 pt-3 border-blue-site text-center">
                 <h2 className="mb-3 font-site">{item.data!.title}</h2>
                 <p className="text-sm mb-6">{item.data!.short_description}</p>
               </div>

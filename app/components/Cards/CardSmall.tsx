@@ -29,7 +29,7 @@ export const CardSmall: FC<Props> = ({
           disableZoom={true}
         />
       </div>
-      <div className="border-y-4 border-blue-site p-4 sm:p-8 w-full sm:w-60 relative bg-gray-800 sm:ml- sm:mt-[-120px] sm:mt-[-150px] mx-auto sm:mx-0">
+      <div className="border-y-4 border-blue-site p-4 sm:p-8 w-full sm:w-60 relative bg-white sm:ml- sm:mt-[-120px] sm:mt-[-150px] mx-auto sm:mx-0">
         <h3 className="text-xl sm:text-2xl font-site">{title}</h3>
         <p className="mb-0 mt-2 sm:mt-4 font-bold text-sm sm:text-base">
           {' '}

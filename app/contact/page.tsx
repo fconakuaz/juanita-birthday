@@ -11,7 +11,7 @@ export default async function Page() {
           disableZoom={true}
         />
       </div>
-      <div className="max-w-7xl mx-auto mt-[-120px] relative bg-gray-900 px-8 sm:px-20">
+      <div className="max-w-7xl mx-auto mt-[-120px] relative bg-white px-8 sm:px-20">
         <h1 className="text-center py-8 font-site">Contact</h1>
         <div className="max-w-4xl mx-auto">
           <h3 className="font-site text-lg my-3">Volunteer</h3>
