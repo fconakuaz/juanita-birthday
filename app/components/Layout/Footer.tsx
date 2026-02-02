@@ -45,7 +45,7 @@ const Footer = () => (
     <div className="mx-auto text-center text-xs mt-6">
       {/* <Logo /> */}
       <p className="font-default mb-10">
-        © 2026 Fiesta de cumpleaños de Luz Flores
+        © 2026 Fiesta de cumpleaños de Juanita
       </p>
     </div>
   </footer>

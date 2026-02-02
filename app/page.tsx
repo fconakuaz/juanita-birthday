@@ -19,7 +19,7 @@ const Home = () => {
       {/* Banner */}
       <Banner
         header={'Te invitamos a la fiesta de'}
-        footer={'17 de enero de 2026'}
+        footer={'sábado 8 de marzo de 2026'}
       />
       <div className="full-width h-5 mt-10  "></div>
       <Locations />

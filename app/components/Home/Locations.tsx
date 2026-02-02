@@ -21,17 +21,17 @@ export const Locations: FC = (): any => {
       >
         <CardSmall
           title="Fiesta de cumpleaños"
-          subtitle="17 de enero del 2026 - 3:00 pm"
+          subtitle="sábado 8 de marzo de 2026 - 2:00 pm"
           description={
             <>
-              Salón Memory&apos;s <br />
-              Av. Primero de Mayo #54, <br />
-              Col. Obrero Campesina, <br />
-              Xalapa, Mexico, 91020
+
+              Mártires del 28 de Agosto 77, <br />
+              Presa de San Bruno, <br />
+              91028 Xalapa-Enríquez, Ver.
             </>
           }
           image="https://images.unsplash.com/photo-1723744909898-4a1ce8922699?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-          url="https://maps.app.goo.gl/gS5gHyovxjX3ppaD6"
+          url="https://maps.app.goo.gl/Dm1qCea8g2XiTuxK7"
           urlLabel="Ver ubicación"
         />
         <CardSmall

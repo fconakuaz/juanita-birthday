@@ -116,7 +116,7 @@ export const FormConfirmation: FC = () => {
                 >
                   {wg?.invitation_from === 'Novio'
                     ? 'La familia'
-                    : 'Luz Flores'}
+                    : 'Juanita'}
                 </Typography>
               </div>
             </div>

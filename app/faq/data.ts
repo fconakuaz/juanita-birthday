@@ -3,7 +3,7 @@ export const itemsFAQ = [
     dataCollectionId: '',
     data: {
       short_description:
-        "Es el 17 de enero de 2026, en el Salón Memory's, ubicado en Av. Primero de Mayo #54, Col. Obrero Campesina, Xalapa, Mexico, 91020",
+        "Es el sábado 8 de marzo de 2026, en el Salón Memory's, ubicado en Mártires del 28 de Agosto 77, Presa de San Bruno, 91028 Xalapa-Enríquez, Ver.",
       cover:
         'https://res.cloudinary.com/zencommerce/image/upload/v1711073493/240_F_132523473_USSvm0zFKwCzKUZa0Xj2nv8hn24itZ4E_scxcxt.jpg',
       title: '¿Cuándo y dónde es la fiesta de cumpleaños?',
@@ -13,7 +13,7 @@ export const itemsFAQ = [
     dataCollectionId: '',
     data: {
       short_description:
-        "La fiesta de cumpleaños de Luz Flores será el 17 de enero de 2026, en el Salón Memory's, ubicado en Av. Primero de Mayo #54, Col. Obrero Campesina, Xalapa, Mexico, 91020",
+        "La fiesta de cumpleaños de Juanita será el sábado 8 de marzo de 2026, ubicado en Mártires del 28 de Agosto 77, Presa de San Bruno, 91028 Xalapa-Enríquez, Ver.",
       cover:
         'https://res.cloudinary.com/zencommerce/image/upload/v1711074625/240_F_283464691_hwArzj9PzTURj2AYpVaCIviRKPKp8T1f_np8xj9.jpg',
       title: '¿Hay información adicional sobre la fiesta?',

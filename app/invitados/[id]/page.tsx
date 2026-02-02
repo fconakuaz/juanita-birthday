@@ -23,7 +23,7 @@ export default function New({ params }: any) {
     <div className="mx-auto relative px-4 sm:px-8 md:px-20 py-5">
       <Banner
         header={'Te invitamos a la fiesta de'}
-        footer={'17 de enero de 2026'}
+        footer={'sábado 8 de marzo de 2026'}
       />
       {/* Form invitation */}
       {weddingGuest?.id !== null ? <FormConfirmation /> : <LoadingBox />}

@@ -33,7 +33,7 @@ const Header = () => {
                     lineHeight: '1.2',
                   }}
                 >
-                  Fiesta de cumpleaños de Luz Flores
+                  Fiesta de cumpleaños de Juanita
                 </span>
                 <span
                   className="text-xs sm:text-sm"
@@ -42,7 +42,7 @@ const Header = () => {
                     marginTop: '0px',
                   }}
                 >
-                  17 de enero de 2026
+                  sábado 8 de marzo de 2026
                 </span>
               </div>
             </a>

@@ -16,10 +16,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>Fiesta de cumpleaños de Luz Flores</title>
+        <title>Fiesta de cumpleaños de Juanita</title>
         <meta
           name="description"
-          content="Aparta la fecha: 17 de enero del 2026"
+          content="Aparta la fecha: sábado 8 de marzo de 2026"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link

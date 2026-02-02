@@ -12,7 +12,7 @@ export interface WeddingGuestInfo {
   comments: string | null;
   date: string | null;
   dateconfirmation: string | null;
-  invitation_from: string | null; // Indica quién envía la invitación (puede ser la familia o Luz Flores)
+  invitation_from: string | null; // Indica quién envía la invitación (puede ser la familia o Juanita)
 }
 
 export interface WeddingGuestStore {

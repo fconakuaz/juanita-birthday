@@ -13,7 +13,7 @@ export const Banner: FC<Props> = ({ header, footer }): any => {
       <div className="w-full sm:w-1/2 flex justify-center sm:justify-end">
         <img
           src="https://res.cloudinary.com/zencommerce/image/upload/v1767458988/luz2_msqcjw.jpg"
-          alt="Luz Flores"
+          alt="Juanita"
           className="rounded-[20px] w-auto h-auto max-h-[300px] sm:max-h-[550px] shadow-lg"
           style={{ objectFit: 'contain' }}
         />
@@ -24,11 +24,11 @@ export const Banner: FC<Props> = ({ header, footer }): any => {
         <h2 className="text-xl sm:text-3xl font-site mb-2">{header}</h2>
 
         <p className="text-[50px] sm:text-[80px] leading-tight rouge-script-regular mb-4">
-          Luz Flores
+          Juanita
         </p>
 
         <h5 className="text-lg sm:text-2xl font-site mb-0">{footer}</h5>
-        <h5 className="text-lg sm:text-2xl font-site mb-6">3:00 pm</h5>
+        <h5 className="text-lg sm:text-2xl font-site mb-6">2:00 pm</h5>
 
         <div className="w-full border-t border-blue-site/30 my-4"></div>
 
@@ -37,7 +37,7 @@ export const Banner: FC<Props> = ({ header, footer }): any => {
         </h3>
 
         <Countdown
-          date="2026-01-17T15:00:00"
+          date="2026-03-08T14:00:00"
           className="!mx-auto sm:!mx-0 sm:!ml-[-13px]"
         />
       </div>
