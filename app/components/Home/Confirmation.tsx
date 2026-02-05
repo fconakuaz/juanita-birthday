@@ -16,7 +16,10 @@ export const Confirmation: FC = () => {
         antes del 28 de febrero
       </h1>
       <div className="text-center mt-6 sm:mt-10 mb-10 sm:mb-24">
-        <p className="text-lg sm:text-xl md:text-2xl mb-2" style={{ color: '#8d3952' }}>
+        <p
+          className="text-lg sm:text-xl md:text-2xl mb-2"
+          style={{ color: '#8d3952' }}
+        >
           A los números:
         </p>
         <div

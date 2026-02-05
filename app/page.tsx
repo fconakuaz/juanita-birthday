@@ -5,7 +5,11 @@ import { CardSmall } from './components/Cards/CardSmall';
 import testIds from '@app/utils/test-ids';
 import { useEffect } from 'react';
 import { dropConfetti } from './utils/confetti';
-import { AditionaInformation, Locations, Confirmation } from './components/Home';
+import {
+  AditionaInformation,
+  Locations,
+  Confirmation,
+} from './components/Home';
 
 const Home = () => {
   useEffect(() => {
