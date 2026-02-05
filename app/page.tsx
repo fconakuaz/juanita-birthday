@@ -5,7 +5,7 @@ import { CardSmall } from './components/Cards/CardSmall';
 import testIds from '@app/utils/test-ids';
 import { useEffect } from 'react';
 import { dropConfetti } from './utils/confetti';
-import { AditionaInformation, Locations } from './components/Home';
+import { AditionaInformation, Locations, Confirmation } from './components/Home';
 
 const Home = () => {
   useEffect(() => {
@@ -21,7 +21,8 @@ const Home = () => {
         header={'Te invitamos a la fiesta de'}
         footer={'Sábado 28 de marzo de 2026'}
       />
-      <div className="full-width h-5 mt-10  "></div>
+      <div className="full-width h-2 sm:h-5 mt-0 sm:mt-10  "></div>
+      <Confirmation />
       <Locations />
       <AditionaInformation />
     </div>

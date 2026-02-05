@@ -6,7 +6,7 @@ export const Locations: FC = (): any => {
   return (
     <>
       <h1
-        className="text-center font-site pt-5 mt-5 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 text-xl sm:text-2xl md:text-[28px]"
+        className="text-center font-site pt-10 mt-10 sm:mt-5 md:mt-5 lg:mt-5 xl:mt-5 2xl:mt-5 text-xl sm:text-2xl md:text-[28px]"
         style={{
           color: '#8d3952',
           lineHeight: '1.2',
@@ -49,7 +49,33 @@ export const Locations: FC = (): any => {
                   fontWeight: 'bolder',
                 }}
               >
-                +52 1 228 121 3774
+                228 121 3774
+              </a>
+              <br />
+              <a
+                href="https://wa.me/522281597338"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  fontSize: '18px',
+                  color: '#8d3952',
+                  fontWeight: 'bolder',
+                }}
+              >
+                228 159 7338
+              </a>
+              <br />
+              <a
+                href="https://wa.me/522281560293"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  fontSize: '18px',
+                  color: '#8d3952',
+                  fontWeight: 'bolder',
+                }}
+              >
+                228 156 0293
               </a>
             </>
           }
