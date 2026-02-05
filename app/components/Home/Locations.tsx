@@ -49,7 +49,7 @@ export const Locations: FC = (): any => {
                   fontWeight: 'bolder',
                 }}
               >
-                228 121 3774
+                Luz: 228 121 3774
               </a>
               <br />
               <a
@@ -62,11 +62,11 @@ export const Locations: FC = (): any => {
                   fontWeight: 'bolder',
                 }}
               >
-                228 159 7338
+                Niza: 228 159 7338
               </a>
               <br />
               <a
-                href="https://wa.me/522281560293"
+                href="https://wa.me/522281510160"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -75,7 +75,7 @@ export const Locations: FC = (): any => {
                   fontWeight: 'bolder',
                 }}
               >
-                228 156 0293
+                Inés: 228 151 0160
               </a>
             </>
           }
