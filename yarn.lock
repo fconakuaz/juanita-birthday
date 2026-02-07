@@ -1439,9 +1439,9 @@ __metadata:
   linkType: hard
 
 "@types/canvas-confetti@npm:^1.6.4":
-  version: 1.6.4
-  resolution: "@types/canvas-confetti@npm:1.6.4"
-  checksum: 0452e1f381e5d59471578be1b83f2908f0906ba0fddfe16f941a07e070f4ad91ceaf1a68bd84d84bb5e81214c95ef00137677d9d61d81119051425ca5ce307ba
+  version: 1.9.0
+  resolution: "@types/canvas-confetti@npm:1.9.0"
+  checksum: 56227a362cead21ab76b0870e07e0cc2d26c800f5bc0fc109e4a3eca1a4d4dd317e1292163246d389827b7f30ce9e6eca3915681f3c80ed1e46491018f48a266
   languageName: node
   linkType: hard
 
